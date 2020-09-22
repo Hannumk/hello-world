@@ -1,3 +1,3 @@
-# hello-world
-Something cool
-and a bit about yourself.
+K.E. Hannum
+I like MUDs.
+Out of work Data Analyst.
